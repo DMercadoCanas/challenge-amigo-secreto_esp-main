@@ -16,18 +16,9 @@
 
 ---
 
-## 📸 Capturas de Pantalla  
-
-### 📌 Interfaz principal  
-![Pantalla principal](./ruta-a-tu-imagen.png)  
-
-### 📌 Agregar nombres  
-![Añadir nombres](./ruta-a-tu-imagen2.png)  
-
-### 📌 Realizar el sorteo  
-![Sorteo](./ruta-a-tu-imagen3.png)  
-
-*(Asegúrate de subir las imágenes y actualizar las rutas para que se muestren correctamente.)*  
+## 🎞️ Video Demo 
+ 
+![Demo](files/demo-ezgif.com-video-to-gif-converter.gif)  
 
 ---
 
@@ -36,12 +27,6 @@
 - **HTML5** - Estructura de la página  
 - **CSS3** - Estilos y diseño responsivo  
 - **JavaScript** - Lógica de validación y sorteo aleatorio  
-
----
-
-## 🎮 Demo  
-
-Puedes probar la aplicación en vivo aquí: **[Enlace a la demo](#)** *(Reemplázalo con el enlace real cuando esté disponible.)*  
 
 ---
 
